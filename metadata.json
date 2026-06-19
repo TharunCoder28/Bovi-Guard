@@ -1,0 +1,8 @@
+{
+  "name": "Boviguard Evaluation Dashboard",
+  "description": "Interactive TNYIEDP Hackathon Judge evaluation, critical diagnostics, strategic improvements, pilot blueprint, and pitching workbook for Boviguard.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
